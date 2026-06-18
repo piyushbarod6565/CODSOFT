@@ -31,5 +31,5 @@ A simple Calculator application built using **Python** and **CustomTkinter**.
 
 ## Files
 
-* main.py – Main source code of the calculator.
+* calculator.py – Main source code of the calculator.
 * history.json – Stores calculation history.
